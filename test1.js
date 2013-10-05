@@ -13,3 +13,4 @@ var out = "fdfsdfsdfvfxgsdfvsdf";
 fs.writeFileSync(outfile, out);
 console.log("Script " + __filename);
 
+// Add something
